@@ -1,8 +1,8 @@
-package Agenda;
+package agenda;
 
 import java.util.Scanner;
 
-public class Agenda {
+public class Agenda{
 
 	public static void main(String[] args) {
 
