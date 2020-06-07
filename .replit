@@ -1,2 +1,2 @@
 language = "java"
-run = "javac tmp/project/agenda/Agenda.java && java  tmp/project/agenda/Agenda.java"
+run = "javac tmp/project/calculadora/Calculadora.java && java  tmp/project/calculadora/Calculadora.java"
